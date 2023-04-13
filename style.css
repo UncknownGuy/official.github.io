@@ -1,0 +1,35 @@
+.prof{
+  padding: 0px;
+  padding-right: 150px;
+  padding-left: 165px;
+  padding-top: 10px;
+}
+
+.prof2{
+  padding: 10px;
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-top: 150px;
+}
+
+.page{
+    padding: 0px;
+  padding-right: 0px;
+  padding-left: 30px;
+  padding-top: 0px;
+}
+
+h2{
+  color: white;
+  padding-right: 50px;
+  padding-bottom: 0px;
+}
+
+.author{
+  color: black;
+  margin: 10px;
+}
+
+.backco{
+  background-color: black;
+}
